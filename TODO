@@ -12,3 +12,7 @@ Allow inline cruft in table bodies and rows
 Suppress start-tags for restartable elements if the element
 	is already on the stack (<b><b> is the same as <b>)
 Combine consecutive body elements
+
+Clean up src for readability and style consistency before next build/test. 
+Java libraries may be updated, to be tested using the latest version of Java as of Sept. 2016
+In Windows 10, using the built in NetBeans browser.
